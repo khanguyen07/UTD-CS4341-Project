@@ -22,3 +22,5 @@ system that can operate as a calculator with a set of logic gates attached.
   Do a NOT on one number
   Do an XOR on two numbers
   The current value in the ALU must remain until cleared. A clear command must be included.
+  
+To UTD students that are or will be taking this class: You can use the codes as a reference. Please do not take these codes and submit them as your own work. Do not plagiarize. 
